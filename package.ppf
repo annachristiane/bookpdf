@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE package PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.2 Package//EN" "http://openebook.org/dtds/oeb-1.2/oebpkg12.dtd">
+<package unique-identifier="bookid" xmlns="http://openebook.org/namespaces/oeb-package/1.0/">
+  <metadata>
+    <dc-metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dc:Format>ANSI/NISO Z39.86-2005</dc:Format>
+      <dc:Identifier id="bookid">switchingsystems00libe_008</dc:Identifier>
+      <dc:Contributor>Library Genesis</dc:Contributor>
+      <dc:Creator>Liberzon, Daniel, 1973-</dc:Creator>
+      <dc:Date>2003</dc:Date>
+      <dc:Language>en</dc:Language>
+      <dc:Publisher>Boston, MA : Birkhauser</dc:Publisher>
+      <dc:Title>Switching in systems and control</dc:Title>
+      <dc:Description>The theory of switched systems is related to the study of hybrid systems, which has gained attention from control theorists, computer scientists, and practicing engineers. This book examines switched systems from a control-theoretic perspective, focusing on stability analysis and control synthesis of systems that combine continuous dynamics with switching events. It includes a vast bibliography and a section of technical and historical notes.</dc:Description>
+      <dc:Description>Issue: до 2011-01</dc:Description>
+      <dc:Description>Includes bibliographical references (p. [203]-227) and index</dc:Description>
+      <dc:Subject>Switching theory</dc:Subject>
+      <dc:Subject>Automatic control</dc:Subject>
+    </dc-metadata>
+    <x-metadata>
+      <meta name="dtb:multimediaType" content="textNCX"/>
+      <meta name="dtb:multimediaContent" content="text"/>
+      <meta name="dtb:totalTime" content="0"/>
+    </x-metadata>
+  </metadata>
+  <manifest>
+    <item href="book.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="./book.ao" id="ao" media-type="application/x-pdtbauth+xml"/>
+    <item href="switchingsystems00libe_008_daisy.xml" id="xml" media-type="application/x-pdtbook+xml"/>
+    <item href="switchingsystems00libe_008_daisy.smil" id="smil" media-type="application/smil"/>
+    <item href="daisyTransform.xsl" id="daisyTransform" media-type="text/xsl"/>
+    <item href="daisy.css" id="daisyCss" media-type="text/css"/>
+    <item href="html.css" id="htmlCss" media-type="text/css"/>
+    <item href="resource.res" id="resource" media-type="application/x-dtbresource+xml"/>
+    <item href="facade.ncx" id="facade-ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="./package.opf" id="opf" media-type="text/xml"/>
+    <item href="./smilFile1.smil" id="smil" media-type="application/smil"/>
+    <item href="./facade.xml" id="xml" media-type="application/x-dtbook+xml"/>
+  </manifest>
+  <spine>
+    <itemref idref="smil"/>
+  </spine>
+</package>

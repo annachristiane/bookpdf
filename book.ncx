@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <smilCustomTest bookStruct="PAGE_NUMBER" defaultState="false" id="pagenumCustomTest" override="visible"/>
+    <smilCustomTest bookStruct="PAGE_NUMBER" defaultState="false" id="headerCustomTest" override="visible"/>
+    <meta content="switchingsystems00libe_008" name="dtb:uid"/>
+    <meta content="Internet Archive - archive.org" name="dtb:generator"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Switching in systems and control</text>
+  </docTitle>
+  <docAuthor>
+    <text>Liberzon, Daniel, 1973-</text>
+  </docAuthor>
+  <navMap>
+    <navInfo>
+      <text>Book navigation</text>
+    </navInfo>
+    <navPoint class="navpoint-level-level1" id="level1_00004" playOrder="1">
+      <navLabel>
+        <text>Producer's Note</text>
+      </navLabel>
+      <content src="switchingsystems00libe_008_daisy.smil#h1_00005"/>
+      <navPoint class="navpoint-level-level2" id="level2_00006" playOrder="2">
+        <navLabel>
+          <text>About Internet Archive Daisy Books</text>
+        </navLabel>
+        <content src="switchingsystems00libe_008_daisy.smil#h2_00007"/>
+      </navPoint>
+      <navPoint class="navpoint-level-level2" id="level2_00009" playOrder="3">
+        <navLabel>
+          <text>About this DAISY book</text>
+        </navLabel>
+        <content src="switchingsystems00libe_008_daisy.smil#h2_00010"/>
+      </navPoint>
+      <navPoint class="navpoint-level-level2" id="level2_00012" playOrder="4">
+        <navLabel>
+          <text>About the Internet Archive</text>
+        </navLabel>
+        <content src="switchingsystems00libe_008_daisy.smil#h2_00013"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="navpoint-level-level1" id="level1_00016" playOrder="5">
+      <navLabel>
+        <text>Book</text>
+      </navLabel>
+      <content src="switchingsystems00libe_008_daisy.smil#h1_00017"/>
+    </navPoint>
+  </navMap>
+  <pageList>
+    <navLabel>
+      <text>Pages</text>
+    </navLabel>
+  </pageList>
+</ncx>
